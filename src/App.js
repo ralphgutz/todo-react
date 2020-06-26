@@ -64,9 +64,9 @@ const App = () => {
         <div className="todo-container">
             <p>What to do:</p>
             {
-                todoItems.map((item, index) => {
+                (todoItems) ? todoItems.map((item, index) => {
                     return <TodoItem key={index} text={item} editFunc={() => handleEdit(index)} deleteFunc={() => handleDelete(index)} />
-                })
+                }) : null
             }
             <div className="clear">
             {
