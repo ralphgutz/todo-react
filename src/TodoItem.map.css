@@ -1,0 +1,48 @@
+.item {
+    padding: 20px;
+    border-bottom: 1px solid rgba(0, 0, 0, .15);
+}
+
+div p {
+    display: inline;
+}
+
+.item > div {
+    display: flex;
+    justify-content: flex-end;
+}
+
+div > button {
+    opacity: 80%;
+    text-align: right;
+}
+
+div > button:hover {
+    opacity: 100%;
+    transition: 200ms;
+}
+
+div > button:nth-child(1) {
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+    text-align: center;
+    background-color: blueviolet;
+    font-size: 1rem;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+div > button:nth-child(2) {
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    background-color: rgb(226, 43, 43);
+    font-size: 1rem;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}

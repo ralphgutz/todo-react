@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todo-react/static/css/main.f9bde10c.chunk.css",
+    "main.js": "/todo-react/static/js/main.0d83823d.chunk.js",
+    "main.js.map": "/todo-react/static/js/main.0d83823d.chunk.js.map",
+    "runtime-main.js": "/todo-react/static/js/runtime-main.49cd5cdc.js",
+    "runtime-main.js.map": "/todo-react/static/js/runtime-main.49cd5cdc.js.map",
+    "static/js/2.1c06bc53.chunk.js": "/todo-react/static/js/2.1c06bc53.chunk.js",
+    "static/js/2.1c06bc53.chunk.js.map": "/todo-react/static/js/2.1c06bc53.chunk.js.map",
+    "index.html": "/todo-react/index.html",
+    "precache-manifest.eb4dc9b8f38b5c4faf715eacbc89394e.js": "/todo-react/precache-manifest.eb4dc9b8f38b5c4faf715eacbc89394e.js",
+    "service-worker.js": "/todo-react/service-worker.js",
+    "static/css/main.f9bde10c.chunk.css.map": "/todo-react/static/css/main.f9bde10c.chunk.css.map",
+    "static/js/2.1c06bc53.chunk.js.LICENSE.txt": "/todo-react/static/js/2.1c06bc53.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/todo-react/static/media/Poppins-Regular.41e8dead.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49cd5cdc.js",
+    "static/js/2.1c06bc53.chunk.js",
+    "static/css/main.f9bde10c.chunk.css",
+    "static/js/main.0d83823d.chunk.js"
+  ]
+}
