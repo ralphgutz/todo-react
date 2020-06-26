@@ -70,7 +70,7 @@ const App = () => {
             }
             <div className="clear">
             {
-                (todoItems.length > 0) ? <button onClick={deleteAll} title="Clear all entries">Clear</button> : null
+                (todoItems.length > 0 && todoItems != null) ? <button onClick={deleteAll} title="Clear all entries">Clear</button> : null
             }
             </div>
         </div>
